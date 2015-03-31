@@ -2,4 +2,5 @@
 .tmp
 
 # directories to ignore
-/obj
+obj/
+bin/
