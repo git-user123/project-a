@@ -1,0 +1,5 @@
+# files to ignore
+.tmp
+
+# directories to ignore
+/obj
