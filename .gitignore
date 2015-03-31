@@ -1,5 +1,6 @@
 # files to ignore
-.tmp
+*.tmp
+*.exe
 
 # directories to ignore
 obj/
